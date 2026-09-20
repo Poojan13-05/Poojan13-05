@@ -4,12 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Poojan+Prajapati" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate DevOps Engineer From India</h3>
 <div align="center">
  
- 🔭 I’m currently working on **CI/CD Project**
  
- 🌱 I’m currently learning **Java,Docker,Kubernetes,AWS,Figma.**
+ 🌱 I’m currently learning **Docker,Kubernetes,AWS,Grafana,Prometheus,Gitlabs,ArgoCD,Terraform.**
 
  </div>
  
